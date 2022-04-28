@@ -25,6 +25,8 @@
 
     2.4. Pode pular esta etapa.
 
+    2.5. Se for uma versão menor, primeiro desinstale e então instale e configure esta nova versão.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
