@@ -3,6 +3,8 @@
 
 ***Conteúdo da Aula:***
 
+1. Baixar os *softwares* que estão disponíveis junto aos materiais para *download* desta aula.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
