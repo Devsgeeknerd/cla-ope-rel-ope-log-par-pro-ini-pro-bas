@@ -19,6 +19,8 @@
     java -version
     ```
 
+    2.2. Se for apresentada alguma versão, verifique se é uma versão 11 ou maior.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
