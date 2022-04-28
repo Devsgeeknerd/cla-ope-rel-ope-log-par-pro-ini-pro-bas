@@ -43,6 +43,8 @@
 
     2.8. Vamos criar um projeto em ***Java*** para testarmos o ambiente.
 
+3. Instalar e configurar o compilador ***C/C++.***
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
