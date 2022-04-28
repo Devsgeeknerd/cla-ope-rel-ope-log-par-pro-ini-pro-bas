@@ -4,6 +4,7 @@
 ***Conteúdo da Aula:***
 
 1. Baixar os *softwares* que estão disponíveis junto aos materiais para *download* desta aula.
+2. Instalar e configurar o ***Java***.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
