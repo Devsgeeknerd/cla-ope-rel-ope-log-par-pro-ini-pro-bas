@@ -27,6 +27,8 @@
 
     2.5. Se for uma versão menor, primeiro desinstale e então instale e configure esta nova versão.
 
+    2.6. Após a instalação, vamos criar uma variável de ambiente chamada **JAVA_HOME** apontando pata o diretório de instalação do *Java*.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
