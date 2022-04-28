@@ -37,6 +37,9 @@
 
     ou
 
+    ```powershell
+    java -version
+    ```
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
