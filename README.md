@@ -31,6 +31,10 @@
 
     2.7. Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
+    ```powershell
+   java --version
+   ```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
