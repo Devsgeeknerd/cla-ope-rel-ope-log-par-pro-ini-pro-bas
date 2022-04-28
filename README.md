@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Instalação e Configuração no Windows
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo da Aula:***
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
