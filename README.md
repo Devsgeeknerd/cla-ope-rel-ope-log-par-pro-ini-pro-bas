@@ -23,6 +23,8 @@
 
     2.3. Se for igual ou maior a 11, tudo certo.
 
+    2.4. Pode pular esta etapa.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
