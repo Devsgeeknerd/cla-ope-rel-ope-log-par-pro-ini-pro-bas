@@ -40,6 +40,9 @@
     ```powershell
     java -version
     ```
+
+    2.8. Vamos criar um projeto em ***Java*** para testarmos o ambiente.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
