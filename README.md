@@ -7,6 +7,10 @@
 2. Instalar e configurar o ***Java***.
   2.1. Abra o terminal e execute o comando abaixo para checar se já existe alguma versão do *Java* instalada:
 
+  ```powershell
+   java --version
+   ```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
