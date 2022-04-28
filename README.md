@@ -29,6 +29,8 @@
 
     2.6. Após a instalação, vamos criar uma variável de ambiente chamada **JAVA_HOME** apontando pata o diretório de instalação do *Java*.
 
+    2.7. Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
