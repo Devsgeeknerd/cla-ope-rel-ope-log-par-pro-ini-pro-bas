@@ -20,6 +20,7 @@
     ```
 
     2.2. Se for apresentada alguma versão, verifique se é uma versão 11 ou maior.
+
     2.3. Se for igual ou maior a 11, tudo certo.
 
 <!-- TABLE OF CONTENTS -->
