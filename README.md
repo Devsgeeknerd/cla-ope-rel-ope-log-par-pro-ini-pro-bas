@@ -80,6 +80,9 @@
     ```
 
     4.2. Instale o *Python*.
+
+    4.3. Verifique se o comando de checagem de versão e reconhecido no terminal:
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
