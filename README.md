@@ -97,6 +97,8 @@
     python --version
     ```
 
+    4.7. Vamos criar um projeto ***Python*** para testarmos o ambiente.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
