@@ -47,6 +47,9 @@
 
     3.1. Abra o terminal e execute o comando abaixo para checar se já existe alguma versão do compilador *C/C++* instalada:
 
+    ```powershell
+    gcc --version
+    ```
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
