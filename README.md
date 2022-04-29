@@ -83,6 +83,10 @@
 
     4.3. Verifique se o comando de checagem de versão e reconhecido no terminal:
 
+    ```powershell
+    python --version
+    ```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
