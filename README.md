@@ -52,6 +52,8 @@
     ```
 
     3.2. Se for apresentada alguma versão, pode pular esta etapa.
+
+    3.3. Instale o compilador.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
