@@ -115,6 +115,10 @@
 
     * Na caixa *Name* digite: **CDT**.
     * Na caixa *Location* digite:
+
+    ```http
+    https://download.eclipse.org/tools/cdt/releases/9.4
+    ```
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
