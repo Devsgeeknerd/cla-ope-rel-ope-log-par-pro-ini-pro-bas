@@ -112,6 +112,9 @@
    6.1. Com o *Eclipse* aberto, acesse o menu **Help** => ***Install New Software***.
 
    6.2. Clique no botão ***ADD***.
+
+    * Na caixa *Name* digite: **CDT**.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
