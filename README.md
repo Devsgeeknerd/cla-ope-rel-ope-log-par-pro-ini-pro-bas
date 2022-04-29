@@ -72,6 +72,8 @@
     ```
 
 4. Instalar e configurar o ***Python***.
+
+    4.1. Abra o terminal e execute o comando abaixo para checar se já existe alguma versão do *Python* instalada:
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
