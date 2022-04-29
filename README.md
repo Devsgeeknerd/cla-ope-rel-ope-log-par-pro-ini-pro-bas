@@ -45,6 +45,8 @@
 
 3. Instalar e configurar o compilador ***C/C++.***
 
+    3.1. Abra o terminal e execute o comando abaixo para checar se já existe alguma versão do compilador *C/C++* instalada:
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
