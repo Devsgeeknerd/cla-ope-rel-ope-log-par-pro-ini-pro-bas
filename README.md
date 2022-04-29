@@ -50,6 +50,8 @@
     ```powershell
     gcc --version
     ```
+
+    3.2. Se for apresentada alguma versão, pode pular esta etapa.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
