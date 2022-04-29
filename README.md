@@ -99,6 +99,7 @@
 
     4.7. Vamos criar um projeto ***Python*** para testarmos o ambiente.
 
+5. Instalar o ***Eclipse***.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
