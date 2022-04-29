@@ -87,6 +87,8 @@
     python --version
     ```
 
+    4.4. Se for reconhecido pode ir para a proxima etapa, caso contrario continue abaixo.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
