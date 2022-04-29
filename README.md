@@ -110,6 +110,8 @@
 6. Instalação do ***plugin CDT*** no *Eclipse* para integrar o *Eclipse* com o compilador *C/C++*.
 
    6.1. Com o *Eclipse* aberto, acesse o menu **Help** => ***Install New Software***.
+
+   6.2. Clique no botão ***ADD***.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
