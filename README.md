@@ -55,11 +55,13 @@
 
     3.3. Instale o compilador.
 
-    3.4. verifique se o comando de checagem de versão e reconhecido no terminal:
+    3.4. Verifique se o comando de checagem de versão e reconhecido no terminal:
 
     ```powershell
     gcc --version
     ```
+
+    3.5. Se for reconhecido pode ir para o próxima etapa, caso contrario continue abaixo.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
