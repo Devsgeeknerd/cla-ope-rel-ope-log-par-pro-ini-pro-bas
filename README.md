@@ -121,6 +121,8 @@
     ```
 
     6.3. Clique em *Add*.
+
+    6.4. Após carregar os dados na lista, selecione ***main*** e finalize a instalação.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
