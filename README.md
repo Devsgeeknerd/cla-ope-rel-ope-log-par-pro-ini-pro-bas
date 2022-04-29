@@ -66,6 +66,10 @@
     3.6. Adicione os binários do compilador no **path** do sistema.
 
     3.7. Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+
+    ```powershell
+    gcc --version
+    ```
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
