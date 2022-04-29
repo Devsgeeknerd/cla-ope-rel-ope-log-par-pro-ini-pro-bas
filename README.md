@@ -89,6 +89,8 @@
 
     4.4. Se for reconhecido pode ir para a proxima etapa, caso contrario continue abaixo.
 
+    4.5. Adicione os binários do *Python* no **path** do sistema.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
