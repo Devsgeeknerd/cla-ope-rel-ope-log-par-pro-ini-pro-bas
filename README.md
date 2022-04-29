@@ -100,6 +100,8 @@
     4.7. Vamos criar um projeto ***Python*** para testarmos o ambiente.
 
 5. Instalar o ***Eclipse***.
+
+    5.1. Descompacte o *Eclipse*.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
