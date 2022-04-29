@@ -70,6 +70,8 @@
     ```powershell
     gcc --version
     ```
+
+4. Instalar e configurar o ***Python***.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
