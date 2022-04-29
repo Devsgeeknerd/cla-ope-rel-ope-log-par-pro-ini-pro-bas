@@ -119,6 +119,8 @@
     ```http
     https://download.eclipse.org/tools/cdt/releases/9.4
     ```
+
+    6.3. Clique em *Add*.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
