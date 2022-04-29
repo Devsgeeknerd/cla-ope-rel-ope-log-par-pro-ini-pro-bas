@@ -62,6 +62,8 @@
     ```
 
     3.5. Se for reconhecido pode ir para o próxima etapa, caso contrario continue abaixo.
+
+    3.6. Adicione os binários do compilador no **path** do sistema.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
