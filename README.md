@@ -54,6 +54,8 @@
     3.2. Se for apresentada alguma versão, pode pular esta etapa.
 
     3.3. Instale o compilador.
+
+    3.4. verifique se o comando de checagem de versão e reconhecido no terminal:
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
