@@ -114,7 +114,7 @@
    6.2. Clique no botão ***ADD***.
 
     * Na caixa *Name* digite: **CDT**.
-
+    * Na caixa *Location* digite:
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
