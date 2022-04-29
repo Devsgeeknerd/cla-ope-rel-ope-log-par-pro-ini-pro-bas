@@ -78,6 +78,8 @@
     ```powershell
     python --version
     ```
+
+    4.2. Instale o *Python*.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
