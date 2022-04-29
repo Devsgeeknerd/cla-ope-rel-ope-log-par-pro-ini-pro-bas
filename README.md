@@ -102,6 +102,8 @@
 5. Instalar o ***Eclipse***.
 
     5.1. Descompacte o *Eclipse*.
+
+    5.2. Crie um diretório chamado *apps* no seu diretório home e cole o *Eclipse* ali dentro.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
