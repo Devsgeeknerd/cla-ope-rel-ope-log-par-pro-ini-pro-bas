@@ -104,6 +104,8 @@
     5.1. Descompacte o *Eclipse*.
 
     5.2. Crie um diretório chamado *apps* no seu diretório home e cole o *Eclipse* ali dentro.
+
+    5.3. Execute o *Eclipse*.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
