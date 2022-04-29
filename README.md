@@ -93,6 +93,10 @@
 
     4.6. Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 
+    ```powershell
+    python --version
+    ```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
