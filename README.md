@@ -91,6 +91,8 @@
 
     4.5. Adicione os binários do *Python* no **path** do sistema.
 
+    4.6. Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
