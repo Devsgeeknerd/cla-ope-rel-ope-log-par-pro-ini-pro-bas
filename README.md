@@ -64,6 +64,8 @@
     3.5. Se for reconhecido pode ir para o próxima etapa, caso contrario continue abaixo.
 
     3.6. Adicione os binários do compilador no **path** do sistema.
+
+    3.7. Feche qualquer tela ou terminal aberto, reabra o terminal e teste novamente o comando para checar a versão:
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
