@@ -106,6 +106,8 @@
     5.2. Crie um diretório chamado *apps* no seu diretório home e cole o *Eclipse* ali dentro.
 
     5.3. Execute o *Eclipse*.
+
+6. Instalação do ***plugin CDT*** no *Eclipse* para integrar o *Eclipse* com o compilador *C/C++*.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
