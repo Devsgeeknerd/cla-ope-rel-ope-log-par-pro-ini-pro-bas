@@ -125,6 +125,8 @@
     6.4. Após carregar os dados na lista, selecione ***main*** e finalize a instalação.
 
     6.5. Reinicie o *Eclipse* após isso.
+
+    6.6. Com o *Eclipse* aberto novamente, acesse o menu **Window** => **Preferences** => **C/C++** => **New C/C++ Project Wizard**.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
