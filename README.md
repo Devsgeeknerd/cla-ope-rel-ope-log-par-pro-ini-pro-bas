@@ -157,7 +157,7 @@
 
     7.6. Vamos criar um projeto **C** para testarmos o ambiente.
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  * [Foto da tela](#foto-da-tela) -->
