@@ -114,6 +114,7 @@
    6.2. Clique no botão ***ADD***.
 
     * Na caixa *Name* digite: **CDT**.
+
     * Na caixa *Location* digite:
 
     ```http
@@ -139,6 +140,8 @@
    7.1. Com o *Eclipse* aberto, acesse o menu **Help** => ***Install New Software***.
 
    7.2. Clique no Botão ***ADD***.
+
+    * Na caixa *Name* digite: **PyDev**.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
