@@ -135,6 +135,8 @@
     6.9. Vamos criar um projeto em **C** par testarmos o ambiente.
 
 7. Instalar o ***Plugin PyDev*** no *Eclipse*.
+
+   7.1. Com o *Eclipse* aberto, acesse o menu **Help** => ***Install New Software***.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
