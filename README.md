@@ -154,6 +154,8 @@
     7.4. Após carregar os dados na lista, selecione ***main*** e finalize a instalação.
 
     7.5. Reinicie o *Eclipse* após isso.
+
+    7.6. Vamos criar um projeto **C** para testarmos o ambiente.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
