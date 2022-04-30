@@ -144,6 +144,10 @@
     * Na caixa *Name* digite: **PyDev**.
 
     * Na caixa *Location* digite:
+
+    ```http
+    https://www.pydev.org/updates
+    ```
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
