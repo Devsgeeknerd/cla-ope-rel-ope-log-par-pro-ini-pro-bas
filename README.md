@@ -137,6 +137,8 @@
 7. Instalar o ***Plugin PyDev*** no *Eclipse*.
 
    7.1. Com o *Eclipse* aberto, acesse o menu **Help** => ***Install New Software***.
+
+   7.2. Clique no Botão ***ADD***.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
