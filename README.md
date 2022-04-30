@@ -152,6 +152,8 @@
     7.3. Clique em *Add*.
 
     7.4. Após carregar os dados na lista, selecione ***main*** e finalize a instalação.
+
+    7.5. Reinicie o *Eclipse* após isso.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
