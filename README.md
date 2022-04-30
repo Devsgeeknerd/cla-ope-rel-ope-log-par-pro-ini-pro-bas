@@ -131,6 +131,8 @@
     6.7. Marque *Empty Project* com o *GCC Toolchain Preferencial*.
 
     6.8. Clique em **Apply** e **close**.
+
+    6.9. Vamos criar um projeto em **C** par testarmos o ambiente.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
