@@ -129,6 +129,8 @@
     6.6. Com o *Eclipse* aberto novamente, acesse o menu **Window** => **Preferences** => **C/C++** => **New C/C++ Project Wizard**.
 
     6.7. Marque *Empty Project* com o *GCC Toolchain Preferencial*.
+
+    6.8. Clique em **Apply** e **close**.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
