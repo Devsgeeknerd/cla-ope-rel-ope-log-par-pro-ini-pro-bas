@@ -148,6 +148,8 @@
     ```http
     https://www.pydev.org/updates
     ```
+
+    7.3. Clique em *Add*.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
