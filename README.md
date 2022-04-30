@@ -133,6 +133,8 @@
     6.8. Clique em **Apply** e **close**.
 
     6.9. Vamos criar um projeto em **C** par testarmos o ambiente.
+
+7. Instalar o ***Plugin PyDev*** no *Eclipse*.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
