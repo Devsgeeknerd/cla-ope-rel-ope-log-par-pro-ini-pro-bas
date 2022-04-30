@@ -142,6 +142,8 @@
    7.2. Clique no Botão ***ADD***.
 
     * Na caixa *Name* digite: **PyDev**.
+
+    * Na caixa *Location* digite:
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
