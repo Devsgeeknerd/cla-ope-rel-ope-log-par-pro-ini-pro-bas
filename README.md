@@ -5,6 +5,24 @@
 
 [Exemplos.](main.ts)
 
+> [!IMPORTANT]\
+> **Boas práticas**:
+>
+> * Uso de tipos de dados específicos (number, string) para evitar comparações inesperadas.
+> * Comentários concisos e claros para explicar a lógica.
+
+> [!WARNING]\
+> **Sugestões de melhoria**:
+>
+> * Manter apenas o código relevante para evitar confusão.
+> * Evitar duplicação de variáveis.
+> * No caso dos números, “maiorOuIgualQue” e “menorOuIgualQue” têm a mesma lógica.
+
+> [!NOTE]\
+> **Observações**:
+>
+> * As comparações de igualdade e diferença são case-sensitive para strings.
+
 <!-- Informações -->
 ## &#8505; Informações
 

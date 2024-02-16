@@ -37,5 +37,3 @@ console.log(igualQueStrings);
 // Comparação de diferença de strings.
 let diferenteQueStrings: boolean = nome1 !== nome2;
 console.log(diferenteQueStrings);
-
-
